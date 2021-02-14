@@ -1,4 +1,4 @@
-const { ReplaySubject } = require('rxjs');
+import { ReplaySubject } from 'rxjs';
 
 const subject$ = new ReplaySubject(3);
 

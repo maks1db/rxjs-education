@@ -1,4 +1,4 @@
-const { BehaviorSubject } = require('rxjs');
+import { BehaviorSubject } from 'rxjs'
 
 const subject$ = new BehaviorSubject('first');
 
