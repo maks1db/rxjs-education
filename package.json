@@ -1,0 +1,23 @@
+{
+  "name": "rxjs-education",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "rxjs": "6.6.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maks1db/rxjs-education.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maks1db/rxjs-education/issues"
+  },
+  "homepage": "https://github.com/maks1db/rxjs-education#readme",
+  "type": "module"
+}
